@@ -1,0 +1,12 @@
+/*---------------Navbar Section----------*/
+
+.navbar-nav{
+    margin-left: auto;
+}
+
+.navbar-light .navbar-nav .nav-link {
+   color: white;
+   font-size:16px;
+   font-weight: 400;
+   font-family: 'Poppins', sans-serif;
+}
