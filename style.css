@@ -16,12 +16,16 @@ body{
 
 .bg-primary {
     background-color: #562EFF!important;
+
+  
 }
 
 
 .navbar img{
     width: 40px;
 }
+
+
 
 /*---------------Top Player Section----------*/
 
@@ -34,4 +38,11 @@ body{
     padding-left: 15px;
     font-weight: 500;
 }
+
+.top-player{
+    max-width: 870px;
+    background-color: white;
+    margin-top:20px;
+}
+
 
