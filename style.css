@@ -1,5 +1,8 @@
 /*---------------Navbar Section----------*/
 
+body{
+    background-color: #f3f1ff;
+}
 .navbar-nav{
     margin-left: auto;
 }
@@ -10,3 +13,25 @@
    font-weight: 400;
    font-family: 'Poppins', sans-serif;
 }
+
+.bg-primary {
+    background-color: #562EFF!important;
+}
+
+
+.navbar img{
+    width: 40px;
+}
+
+/*---------------Top Player Section----------*/
+
+.player img{
+    width: 56px;
+}
+
+.pl-3{
+    font-family: 'Poppins', sans-serif;
+    padding-left: 15px;
+    font-weight: 500;
+}
+
