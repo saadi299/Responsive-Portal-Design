@@ -14,10 +14,9 @@ body{
    font-family: 'Poppins', sans-serif;
 }
 
-.bg-primary {
+.main-nav{
     background-color: #562EFF!important;
-
-  
+    
 }
 
 
@@ -25,7 +24,12 @@ body{
     width: 40px;
 }
 
-
+.navbar{
+    max-width: 870px;
+    display:flex;
+    justify-content: center;
+  
+}
 
 /*---------------Top Player Section----------*/
 
@@ -43,6 +47,93 @@ body{
     max-width: 870px;
     background-color: white;
     margin-top:20px;
+    padding-top: 20px;
+   
 }
+
+h3{
+    font-weight: 500;
+    color:#562EFF;
+    font-size: 24px;
+}
+
+hr{
+     border: 1px solid #9F9F9F;
+}
+
+/* ----------------------------------BLOG------------------------------*/
+
+.blog img{
+    width:177px;
+}
+
+
+.blog-details h4{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 15px;
+
+}
+
+.blog-details p{
+    font-size:16px;
+    font-weight: 400;
+    color: #9F9F9F;
+}
+
+.blog-details .purple-footer{
+    color: #562EFF;
+
+}
+
+/* ----------------------------------Cources------------------------------*/
+
+.courses img{
+    width:224px;
+  
+
+}
+
+.latest-courses{
+    max-width: 870px;
+    background-color: white;
+    margin-top:20px;
+    padding-top: 20px;
+   
+}
+
+.course-details {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 15px;
+   
+   
+}
+
+
+.course-details h4{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+   
+
+}
+
+.course-details p{
+    font-size:14px;
+    font-weight: 400;
+    color:#ED6B4F;
+
+}
+
+.course-section{
+    margin-bottom: 50px;
+}
+
+
+
+
 
 
